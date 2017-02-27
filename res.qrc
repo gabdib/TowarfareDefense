@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>img/militar_bg.png</file>
+        <file>img/militar_enemy.png</file>
+        <file>img/militar_bullet.png</file>
+        <file>img/player.png</file>
+        <file>img/big_militar_launcher_green.png</file>
+        <file>img/big_militar_launcher_silver.png</file>
+        <file>img/militar_radar_green.png</file>
+        <file>img/militar_radar_silver.png</file>
+        <file>img/small_militar_launcher_green.png</file>
+        <file>img/small_militar_launcher_silver.png</file>
+        <file>img/explosion.gif</file>
+        <file>img/explosion.png</file>
+    </qresource>
+</RCC>
